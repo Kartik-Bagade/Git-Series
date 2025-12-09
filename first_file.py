@@ -4,3 +4,7 @@
 # This is our code
 
 print("I love Git!")
+
+# This is a change to our code
+
+print("I'd like to learn how to merge branches")
